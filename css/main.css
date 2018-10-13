@@ -5,7 +5,7 @@
 .cover-img {
     /*background: url(http://coffeecreamthemes.com/themes/smartway/site/images/banner2.jpg) no-repeat center center fixed;*/
     /*background: url(http://wedesignthemes.com/themes/dt-lms/wp-content/uploads/2014/08/fullscreen-slider.jpg) no-repeat center center fixed;*/
-    background: url(/img/background.jpg) no-repeat center center fixed;
+    background: url(img/background.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
